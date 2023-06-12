@@ -37,3 +37,4 @@ function updateFormData() {
     messageInput.value = parsedFormData.message;
   }
 }
+
